@@ -76,7 +76,7 @@
   
 ## Stuff to Checkout
 
-- [ ] **Github Backup in Cronjob**
+- [ ] **Github Backup of Modified Git Modules**
 - [ ] **Jenkins**
 - [ ] **Github Branching**
 - [ ] **GPG Problem Sollution**
@@ -102,7 +102,7 @@
 # Day Checklist
 
 
-- [ ] **Github Backup in Cronjob**
+- [x] **Github Backup in Cronjob**
 - [ ] **Github Branching**
 - [ ] **Check working of Trade Request login flow**
 - [ ] **SecOps Working** 
