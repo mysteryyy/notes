@@ -42,7 +42,7 @@
   ```bash
      tmux swap-pane 
   ```
-- **Installing i3-gaps problem**:Remember to lookup the au  toreconf problem which says that the configure.ac is req  uired. 
+- **Installing i3-gaps problem**:Remember to lookup the autoreconf problem which says that the configure.ac is req  uired. 
 
 - **Installing new font**:<https://jenciso.github.io/blog/how-setup-your-noto-color-emoji-fonts/>
 
