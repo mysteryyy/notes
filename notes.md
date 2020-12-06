@@ -88,6 +88,7 @@
 - **Dynamic correlation between assets**:Writes about estimating changing correlations between assets.<https://quantdare.com/to-be-or-not-to-be-correlated/>
 - **Interesting Fractional Calculus book to check out**:Apparently talks about application of fractional calculus to financial data.<https://b-ok.asia/book/3307169/7a374c>
 - **Portfolio Optimization course to check out**:<https://www.coursera.org/learn/advanced-portfolio-construction-python#syllabus>
+- **Stocks**:AARTIIND
 
 ## Stuff to Checkout
 
