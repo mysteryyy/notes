@@ -104,7 +104,7 @@
 
 
 - [x] **Github Backup in Cronjob**
-- [ ] **Github Branching**
+- [x] **Github Branching**
 - [ ] **Check working of Trade Request login flow**
 - [ ] **SecOps Working** 
 - [ ] **ICICI Direct Login**
