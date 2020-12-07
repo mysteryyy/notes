@@ -116,4 +116,4 @@
 - [x] **Check working of Trade Request login flow**
 - [ ] **SecOps Working** 
 - [ ] **ICICI Direct Login**
-- [ ] **Code for Firing Orders**
+- [x] **Code for Firing Orders**
