@@ -89,6 +89,8 @@
 - [ ] **Get Chromedriver Working**: Get it working on your actual PC environment  
 - [ ] **GPG Problem Sollution**
 - [ ] **Anki Style Flashcards in Terminal**
+- [ ] **Nelder-Mead Algo for Alpha-Stable Pdf** 
+- [ ] **Search Faster Code Method for Bayesia Op.**
 
 
 # Finance
@@ -114,6 +116,6 @@
 - [x] **Github Backup in Cronjob**
 - [x] **Github Branching**
 - [x] **Check working of Trade Request login flow**
-- [ ] **SecOps Working** 
+- [x] **SecOps Working** 
 - [ ] **ICICI Direct Login**
 - [x] **Code for Firing Orders**
