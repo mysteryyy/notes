@@ -73,7 +73,15 @@
   ```bash
      git ls-tree --name-only HEAD
   ```
-  
+- **Printing Python Output to text File**
+
+  ```python
+
+     import sys 
+
+     stdoutOrigin=sys.stdout 
+     sys.stdout = open("log.txt", "w")
+  ``` 
 ## Stuff to Checkout
 
 - [ ] **Github Backup of Modified Git Modules**
