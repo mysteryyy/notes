@@ -90,6 +90,7 @@
 - [ ] **GPG Problem Sollution**
 - [ ] **Anki Style Flashcards in Terminal**
 - [ ] **Nelder-Mead Algo for Alpha-Stable Pdf** 
+- [ ] **Checkout Code for Pyflux GAS Implementation** 
 - [ ] **Search Faster Code Method for Bayesia Op.**
 
 
