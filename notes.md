@@ -92,6 +92,8 @@
 - [ ] **Nelder-Mead Algo for Alpha-Stable Pdf** 
 - [ ] **Checkout Code for Pyflux GAS Implementation** 
 - [ ] **Search Faster Code Method for Bayesia Op.**
+- [ ] **Fundamentals for Long Term Prediction**
+- [ ] **Find Data for Unlisted Stocks**
 
 
 # Finance
