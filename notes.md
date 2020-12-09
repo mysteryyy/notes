@@ -122,3 +122,4 @@
 - [x] **SecOps Working** 
 - [ ] **ICICI Direct Login**
 - [x] **Code for Firing Orders**
+- [ ] **Code for Exiting Orders**
