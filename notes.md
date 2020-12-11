@@ -1,6 +1,7 @@
 # General
 
 + Continously dnb without stopping
++ half 6, half 7
 
 
 
