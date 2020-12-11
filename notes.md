@@ -92,8 +92,6 @@
 - [ ] **Nelder-Mead Algo for Alpha-Stable Pdf** 
 - [ ] **Checkout Code for Pyflux GAS Implementation** 
 - [ ] **Search Faster Code Method for Bayesia Op.**
-- [ ] **Fundamentals for Long Term Prediction**
-- [ ] **Find Data for Unlisted Stocks**
 
 
 # Finance
@@ -102,13 +100,16 @@
 - **Interesting Fractional Calculus book to check out**:Apparently talks about application of fractional calculus to financial data.<https://b-ok.asia/book/3307169/7a374c>
 - **Portfolio Optimization course to check out**:<https://www.coursera.org/learn/advanced-portfolio-construction-python#syllabus>
 - **Constructing trading strategy ensembles by classifying market states**:<https://arxiv.org/abs/2012.03078>
-- **Stocks**:AARTIIND
 
 ## Stuff to Checkout
 
 - [ ] **Trading team up Opportunity**:<https://www.reddit.com/r/algotrading/comments/k61gq8/looking_to_work_together/>
+- [ ] **Zerodha KYC Problem**
 - [ ] **Backtesting**:<https://towardsdatascience.com/ai-in-finance-how-to-finally-start-to-believe-your-backtests-3-3-2f3b4d875842>
 - [ ] **Portfolio Optimization Library**:<https://github.com/dcajasn/Riskfolio-Lib>
+- [ ] **Necessity of Downloading Intraday Data Regularly**
+- [ ] **Fundamentals for Long Term Prediction**
+- [ ] **Find Data for Unlisted Stocks**
 
 # Math/Algo
 
