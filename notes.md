@@ -117,10 +117,6 @@
 # Day Checklist
 
 
-- [x] **Github Backup in Cronjob**
-- [x] **Github Branching**
-- [x] **Check working of Trade Request login flow**
-- [x] **SecOps Working** 
+- [ ] **Stop Loss using Lower Timeframe Simulation**
 - [ ] **ICICI Direct Login**
-- [x] **Code for Firing Orders**
-- [ ] **Code for Exitin Orders**
+- [ ] **Test Code for Exiting Orders**
