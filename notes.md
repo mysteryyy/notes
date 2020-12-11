@@ -117,7 +117,7 @@
 # Day Checklist
 
 
-- [ ] **Test Code for Exiting Orders**
+- [x] **Test Code for Exiting Orders**
 - [ ] **Stop Loss using Lower Timeframe Simulation**
 - [ ] **GARCH Vol Estimate using Another Library**
 - [ ] **ICICI Direct Login**
