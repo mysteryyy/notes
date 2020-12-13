@@ -126,3 +126,4 @@
 - [ ] **Stop Loss using Lower Timeframe Simulation**
 - [ ] **GARCH Vol Estimate using Another Library**
 - [ ] **ICICI Direct Login**
+- [ ] **Tanya-chans study plan to Potato land**
