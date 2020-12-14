@@ -117,8 +117,8 @@
 - [ ] **Fundamentals for Long Term Prediction**
 - [ ] **Find Data for Unlisted Stocks**
 - [ ] **Butterworth Filter for Factor Variance**:Calculates standard deviation for normalizing 
-- [ ] **Butterworth Filter for GARCH Variance**
         factors to put into ML model.
+- [ ] **Butterworth Filter for GARCH Variance**
 
 # Math/Algo
 
