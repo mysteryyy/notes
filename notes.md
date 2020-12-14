@@ -102,6 +102,7 @@
 - **Portfolio Optimization course to check out**:<https://www.coursera.org/learn/advanced-portfolio-construction-python#syllabus>:
 
   + Sharp style analysis to be used to find out industriwise allocation of funds
+  + Factor GARCH model
 
 - **Constructing trading strategy ensembles by classifying market states**:<https://arxiv.org/abs/2012.03078>
 
