@@ -88,6 +88,7 @@
 - [ ] **Github Backup of Modified Git Modules**
 - [ ] **Jenkins**
 - [ ] **Get Chromedriver Working**: Get it working on your actual PC environment  
+- [ ] **Check Efficiency of AutoDiff in Julia**
 - [ ] **GPG Problem Sollution**
 - [ ] **Anki Style Flashcards in Terminal**
 - [ ] **Nelder-Mead Algo for Alpha-Stable Pdf** 
@@ -115,6 +116,9 @@
 - [ ] **Necessity of Downloading Intraday Data Regularly**
 - [ ] **Fundamentals for Long Term Prediction**
 - [ ] **Find Data for Unlisted Stocks**
+- [ ] **Butterworth Filter for Factor Variance**:Calculates standard deviation for normalizing 
+- [ ] **Butterworth Filter for GARCH Variance**
+        factors to put into ML model.
 
 # Math/Algo
 
