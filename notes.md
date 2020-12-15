@@ -105,6 +105,7 @@
   + Sharp style analysis to be used to find out industriwise allocation of funds
   + Factor GARCH model
 
+- **Another Trading Course to Check Out**:<https://www.coursera.org/learn/machine-learning-trading-finance>
 - **Constructing trading strategy ensembles by classifying market states**:<https://arxiv.org/abs/2012.03078>
 
 ## Stuff to Checkout
