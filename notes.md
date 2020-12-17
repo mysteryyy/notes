@@ -52,9 +52,14 @@
      
      let $myvimdir = '/home/abc/vimfiles'
      
-     $myvimdir/bundle/Vundle.vim
+     :e $myvimdir/bundle/Vundle.vim
   ```
 - **Installing Selenium**:<https://tecadmin.net/setup-selenium-chromedriver-on-ubuntu/>
+
+- **Vim Open Another File in Current File Location**:
+  ```bash
+     :vs %:p:h/otherfile
+  ```
 
 - **Encrypt/Decrypt gpg file**:
   - **Encryption**:
