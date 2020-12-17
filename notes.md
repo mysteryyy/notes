@@ -92,7 +92,6 @@
 
 - [ ] **Github Backup of Modified Git Modules**
 - [ ] **Jenkins**
-- [ ] **Get Chromedriver Working**: Get it working on your actual PC environment  
 - [ ] **Check Efficiency of AutoDiff in Julia**
 - [ ] **GPG Problem Sollution**
 - [ ] **Anki Style Flashcards in Terminal**
@@ -139,6 +138,7 @@
 # Day Checklist
 
 
+- [ ] **Get Chromedriver Working**: Get it working on your actual PC environment  
 - [ ] **Complete the Course**
 - [ ] **Stop Loss using Lower Timeframe Simulation**
 - [ ] **GARCH Vol Estimate using Another Library**
