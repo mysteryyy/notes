@@ -139,6 +139,7 @@
 # Day Checklist
 
 
+- [ ] **Atulya Mail Attendance**
 - [ ] **Get Chromedriver Working**: Get it working on your actual PC environment  
 - [ ] **Complete the Course**
 - [ ] **Stop Loss using Lower Timeframe Simulation**
