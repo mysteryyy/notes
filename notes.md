@@ -88,6 +88,12 @@
      stdoutOrigin=sys.stdout 
      sys.stdout = open("log.txt", "w")
   ``` 
+- **Swap File Location of Split**:
+
+  ```
+   <C-w><C-r>
+  
+  ```
 ## Stuff to Checkout
 
 - [ ] **Github Backup of Modified Git Modules**
