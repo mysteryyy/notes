@@ -124,6 +124,7 @@
 ## Stuff to Checkout
 
 - [ ] **Trading team up Opportunity**:<https://www.reddit.com/r/algotrading/comments/k61gq8/looking_to_work_together/>
+- [ ] **Dynamic Covariance using Relative Market Beta**
 - [ ] **Try out Stochastic Fundamental/Noise Trader Model as Predictor**
 - [ ] **Zerodha KYC Problem**
 - [ ] **Backtesting**:<https://towardsdatascience.com/ai-in-finance-how-to-finally-start-to-believe-your-backtests-3-3-2f3b4d875842>
