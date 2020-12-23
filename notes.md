@@ -148,7 +148,7 @@
 
 - [ ] **Atulya Mail Attendance**
 - [ ] **Get Chromedriver Working**: Get it working on your actual PC environment  
-- [ ] **Complete the Course**
+- [ ] **Create Stepwise Framework for Dynamic Distribution Testing**:May include things like Neldler-Mead for alpha stable distribution,GAS using Tensorflow,replicate pyflux GAS with Tensorflow incorporating uncertainity of factors with ANOVA style analysis.
 - [ ] **Stop Loss using Lower Timeframe Simulation**
 - [ ] **GARCH Vol Estimate using Another Library**
 - [ ] **ICICI Direct Login**
