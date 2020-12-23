@@ -117,6 +117,9 @@
 
 - **Another Trading Course to Check Out**:<https://www.coursera.org/learn/machine-learning-trading-finance>
 - **Constructing trading strategy ensembles by classifying market states**:<https://arxiv.org/abs/2012.03078>
+- **Paper:Quantification of Risk in Norwegian Stocks**:
+
+  + Used 2 year period of daily returns for calculating parameters of normal inverse gaussian distribution for Norwegian stocks and about 8 years for NYSE stock.
 
 ## Stuff to Checkout
 
@@ -149,7 +152,4 @@
 - [ ] **Atulya Mail Attendance**
 - [ ] **Get Chromedriver Working**: Get it working on your actual PC environment  
 - [ ] **Create Stepwise Framework for Dynamic Distribution Testing**:May include things like Neldler-Mead for alpha stable distribution,GAS using Tensorflow,replicate pyflux GAS with Tensorflow incorporating uncertainity of factors with ANOVA style analysis.
-- [ ] **Stop Loss using Lower Timeframe Simulation**
-- [ ] **GARCH Vol Estimate using Another Library**
-- [ ] **ICICI Direct Login**
 - [ ] **Tanya-chans study plan to Potato land**
