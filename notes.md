@@ -121,6 +121,10 @@
 
   + Used 2 year period of daily returns for calculating parameters of normal inverse gaussian distribution for Norwegian stocks and about 8 years for NYSE stock.
 
+- **Another Trading Course to Check Out**:<https://www.coursera.org/learn/machine-learning-asset-management-alternative-data#syllabus>
+  
+  + Can use scraping wikipedia pages to find out similarities incompaniesby using word frequency commanalities and also scrape out industry information about each company.
+
 ## Stuff to Checkout
 
 - [ ] **Trading team up Opportunity**:<https://www.reddit.com/r/algotrading/comments/k61gq8/looking_to_work_together/>
@@ -135,7 +139,6 @@
 - [ ] **Butterworth Filter for Factor Variance**:Calculates standard deviation for normalizing 
         factors to put into ML model.
 - [ ] **Butterworth Filter for GARCH Variance**
-- [ ] **Another Trading Course to Check Out**:<https://www.coursera.org/learn/machine-learning-asset-management-alternative-data#syllabus>
 
 # Math/Algo
 
