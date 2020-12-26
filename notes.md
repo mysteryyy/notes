@@ -134,7 +134,7 @@
 - [ ] **Backtesting**:<https://towardsdatascience.com/ai-in-finance-how-to-finally-start-to-believe-your-backtests-3-3-2f3b4d875842>
 - [ ] **Portfolio Optimization Library**:<https://github.com/dcajasn/Riskfolio-Lib>
 - [ ] **Necessity of Downloading Intraday Data Regularly**
-- [ ] **Quantifiable Changes in Company Reports Lead to Worse Perfomance Compared to Similarity**:<https://www.nber.org/digest/nov18/are-investors-inattentive-sec-mandated-corporate-reports> 
+- [ ] **Quantifiable Changes in Company Reports Lead to Worse Perfomance**:Check Course resources 
 - [ ] **Fundamentals for Long Term Prediction**
 - [ ] **Find Data for Unlisted Stocks**
 - [ ] **Butterworth Filter for Factor Variance**:Calculates standard deviation for normalizing 
