@@ -141,6 +141,7 @@
 - [ ] **Butterworth Filter for Factor Variance**:Calculates standard deviation for normalizing 
         factors to put into ML model.
 - [ ] **Butterworth Filter for GARCH Variance**
+
 # Math/Algo
 
 
