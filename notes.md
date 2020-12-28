@@ -94,6 +94,12 @@
    <C-w><C-r>
   
   ```
+
+- **Run Docker with Environmental Varaiable**:
+  ```bash
+     docker run --env action='check-out' -t dock .
+  ```
+
 ## Stuff to Checkout
 
 - [ ] **Github Backup of Modified Git Modules**
