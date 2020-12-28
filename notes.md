@@ -162,7 +162,7 @@
 # Day Checklist
 
 
-- [ ] **Atulya Mail Attendance**
-- [ ] **Get Chromedriver Working**: Get it working on your actual PC environment  
+- [x] **Atulya Mail Attendance**
+- [ ] **Add code for Take-Profit**
 - [ ] **Create Stepwise Framework for Dynamic Distribution Testing**:May include things like Neldler-Mead for alpha stable distribution,GAS using Tensorflow,replicate pyflux GAS with Tensorflow incorporating uncertainity of factors with ANOVA style analysis.
 - [ ] **Tanya-chans study plan to Potato land**
