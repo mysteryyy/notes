@@ -159,6 +159,8 @@
 
 - **Particle Filter**:<https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/12-Particle-Filters.ipynb>. Look into the resamapling methods mentioned and the code for that.
 
+- **Book:Adaptive Learning of Polynomial Networks**
+
 ## Stuff to Checkout
 
 - [ ] **Bootsraping**
