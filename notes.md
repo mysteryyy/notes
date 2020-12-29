@@ -4,7 +4,6 @@
 + half 6, half 7
 
 
-
 # Setup
 
 - **Font-Awesome**:Gotta install font-awesome icons through apt.
