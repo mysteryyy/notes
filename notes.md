@@ -100,6 +100,7 @@
      docker run --env action='check-out' -t dock .
   ```
 
+
 ## Stuff to Checkout
 
 - [ ] **Github Backup of Modified Git Modules**
@@ -129,7 +130,12 @@
 
 - **Another Trading Course to Check Out**:<https://www.coursera.org/learn/machine-learning-asset-management-alternative-data#syllabus>
   
+
+
   + Can use scraping wikipedia pages to find out similarities incompaniesby using word frequency commanalities and also scrape out industry information about each company.
+
+- **Stocks**:ISGEC
+
 
 ## Stuff to Checkout
 
@@ -139,6 +145,7 @@
 - [ ] **Intraday Trading Selling Gaps**: Could use SGX NIFTY for reference
 - [ ] **Zerodha KYC Problem**
 - [ ] **Backtesting**:<https://towardsdatascience.com/ai-in-finance-how-to-finally-start-to-believe-your-backtests-3-3-2f3b4d875842>
+- [ ] **Book Based on Bayes Risk**:<https://1lib.in/book/2650432/fc40fb>
 - [ ] **Portfolio Optimization Library**:<https://github.com/dcajasn/Riskfolio-Lib>
 - [ ] **Necessity of Downloading Intraday Data Regularly**
 - [ ] **Quantifiable Changes in Company Reports Lead to Worse Perfomance**:Check Course resources 
