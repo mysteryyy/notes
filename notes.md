@@ -161,7 +161,7 @@
 
 - **Adaptive Learning of Polynomial Networks**  :<https://1lib.in/book/2119848/fbbcaab>
   
-   + Includes Combination of Genetic Programming and Bayesian Methods 
+   + Includes combination of Genetic Progeamming and Bayesian methods.
 
 ## Stuff to Checkout
 
